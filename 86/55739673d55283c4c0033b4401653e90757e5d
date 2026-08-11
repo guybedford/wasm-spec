@@ -1,0 +1,19 @@
+proposals/js-text-encoding-builtins/Overview.md
+  s_d7455cb5dfff41::t_8a69f8fba59e48 5,195-300,307-316
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8655739673d55283c4c0033b4401653e90757e5d",
+  "prompts": {},
+  "sessions": {
+    "s_d7455cb5dfff41": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_00d0558cbffeBSgKBV6eNpknwU",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Guy Bedford <guybedford@gmail.com>"
+    }
+  }
+}
